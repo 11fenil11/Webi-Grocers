@@ -1,0 +1,68 @@
+body{
+    background-image: url(abstract-art-artistic-1020315.jpg);
+}
+
+
+.form{
+    background-color:black;
+    font-size:36px;
+    font-family: monospace;
+    width: 350px;
+    padding: 10px;
+    color: grey;
+    margin: auto;
+    opacity: 0.7;
+}
+
+.tex{
+    color:black;
+    font-size: 28px;
+}
+
+.navbar{
+    width: auto;
+    background-color: black;
+    height: 70px;
+}
+
+.ui{
+    padding: 0;
+    line-height: 36px;
+    margin-top: 5px;
+    margin-left: 100px;
+    align-content: center;
+}
+
+.ui li{
+    list-style: none;
+    display: inline;
+}
+.ui button{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    margin: 5px;
+    padding: 10px;
+}
+.ui a{
+    text-decoration: none;
+}
+
+body{
+    background-color:grey;
+    font-family:"Roboto",sans-serif;
+    font-size: 20px;
+    color:ghostwhite;
+    margin:auto;
+    
+    text-align: center;
+}
+.tabl{
+    background-color: antiquewhite;
+    border-bottom-style: groove;
+    border-color: aliceblue;
+    color: black;
+    border-radius: 10px;
+    border: 10px;
+    border-color: black;
+}

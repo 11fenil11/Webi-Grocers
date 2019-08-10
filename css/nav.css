@@ -1,0 +1,15 @@
+body{
+    align-content: center;
+   
+    
+}
+
+.tex{
+    color:aliceblue;
+    font-size: 28px;
+}
+
+.navbar{
+    width: 500px;
+    background-color: antiquewhite aliceblue ;
+}

@@ -1,0 +1,129 @@
+.login-page{
+    width: 360px;
+    padding: 10% 0 0;
+    margin: auto;
+}
+
+.form{
+    position: relative;
+    z-index: 1;
+    background:rgba(8,55,100,.5);
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(aaa11.jpg);
+    /*background-image: url(aaa11.jpg);*/
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+.tex{
+    color:black;
+    font-size: 28px;
+}
+
+.navbar{
+    width: auto;
+    background-color: black;
+}
+
+.ui{
+    padding: 0;
+    margin-top: 5px;
+    margin-left: 400px;
+    align-content: center;
+}
+
+.ui li{
+    list-style: none;
+    display: inline;
+}
+.ui button{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    margin: 5px;
+    padding: 10px;
+}
+.ui a{
+    text-decoration: none;
+}
+.tabl{
+    background-color: antiquewhite;
+    border-bottom-style: groove;
+    border-color: aliceblue;
+    color: black;
+    border-radius: 10px;
+    border: 10px;
+    border-color: black;
+}
+.form button{
+    font-family: "Roboto",sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: #4caf50;
+    width: 100%;
+    border:0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.form input{
+    font-family: "Roboto",sans-serif;
+    outline: 1;
+    background-color:bisque;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.msg{
+    margin: 15px 0 0;
+    color: azure;
+    font-size: 12px;
+    
+}
+.form .msg a{
+    color:bisque;
+    text-decoration: none;
+}
+.form .register-form{
+    display: none;
+}
+
+.mainhome{
+        width: 700px;
+    padding: 20% 0 0;
+    margin: auto; 
+    font-size: 25px;
+
+}
+.mainhome a{
+    
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: "serif";
+    text-decoration: none;
+    color:cadetblue;
+    backface-visibility: hidden;
+    background-color:  rgba(100, 100, 100, 0.8); ;
+font-family: "Roboto",sans-serif;
+}
+.main2{
+    position: relative;
+    background:rgba(8,55,100,.5);
+    max-width: 700px;
+    font-family: "Roboto",sans-serif;
+   padding-top: 30px;
+     padding-bottom: 30px;
+    text-align: center;
+}

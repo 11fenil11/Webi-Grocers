@@ -1,0 +1,106 @@
+.form{
+    background-color:black;
+    font-size:36px;
+    font-family: monospace;
+    width: 350px;
+    padding: 10px;
+    color: grey;
+    margin: auto;
+    opacity: 0.7;
+}
+
+
+
+body{
+    background-color:grey;
+    font-family:"Roboto",sans-serif;
+    font-size: 20px;
+    color:ghostwhite;
+    margin:auto;
+    background-image: url(abstract-art-artistic-1020315.jpg);
+    text-align: center;
+    }
+
+
+#hover{
+    background-color:wheat;
+    opacity: .8;
+    color:currentColor;
+    border-width: inherit;
+    cursor:grab;
+    width: inherit;
+    font-size: 30px;
+    
+    
+}
+.tex{
+    color:black;
+    font-size: 28px;
+}
+
+.navbar{
+    width: 1500px;
+    background-color: black;
+    height: 70px;
+}
+
+.ui{
+    padding: 0;
+    line-height: 36px;
+    margin-top: 5px;
+    float:left;
+}
+
+.ui li{
+    list-style: none;
+    display: inline;
+}
+.ui button{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    margin: 5px;
+    padding: 10px;
+}
+.ui a{
+    text-decoration: none;
+}
+.ddd-content a{
+    color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+
+}
+.tabl{
+    background-color: antiquewhite;
+    border-bottom-style: groove;
+    border-color: aliceblue;
+    color: black;
+    border-radius: 10px;
+    border: 10px;
+    border-color: black;
+}
+#hover:hover{
+    background-color:darkgrey;
+    color:currentColor;
+    border-color: currentColor;
+    cursor:grab;
+    width: inherit;
+    font-size: 40px;
+    transition-delay: 0.4s;
+    
+}
+.lll{
+    text-decoration: none;
+    color: black;
+     color:currentColor;
+}
+.patti{
+    background-color: black;
+    opacity: .7;
+    width:500px;
+    align-content: center;
+    margin: auto;   
+    font-size: 20px;
+}

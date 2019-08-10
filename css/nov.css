@@ -1,0 +1,38 @@
+body{
+    align-content: center;
+    background-color: aliceblue;
+    
+}
+
+.tex{
+    color:black;
+    font-size: 28px;
+}
+
+.navbar{
+    width: 1500px;
+    background-color: black;
+    height: 70px;
+}
+
+.ui{
+    padding: 0;
+    line-height: 36px;
+    margin-top: 5px;
+    float:left;
+}
+
+.ui li{
+    list-style: none;
+    display: inline;
+}
+.ui button{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    margin: 5px;
+    padding: 10px;
+}
+.ui a{
+    text-decoration: none;
+}
